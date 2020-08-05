@@ -3,9 +3,9 @@
 ## I'm an Telecommunications engineer that considers himself a Developer
 - Smth About me: I’m currently learning everything but I'm trying to specialize on smth and I'm totally obsessed with sports :bowtie: 
 - To do list:
-- 1. WORK on my website 🔥
-- 2. Contribute with more projects 
-- 3. Develop fun applications, hopefully 😭😭😭
+<p align="center">-  WORK on my website 🔥 </p>
+-  Contribute with more projects 
+-  Develop fun applications, hopefully 😭😭😭
 
 Motto: Mens sana in corpore sano 
 
