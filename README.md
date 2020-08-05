@@ -27,8 +27,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-img align="left" height="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-dicid&psig=AOvVaw33lpI4Tm81UsemhzhT6bK8&ust=1596717225862000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjQvquJhOsCFQAAAAAdAAAAABAD"/>
-<img align="left" height="26px" alt="Java" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Fjava-logo.html&psig=AOvVaw2XAyWcY2iNwEtZPjrsWrpY&ust=1596717194226000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDQkJyJhOsCFQAAAAAdAAAAABAD"/>
+img align="left" height="26px" src="https://img.favpng.com/16/10/16/python-javascript-logo-clojure-png-favpng-3x1GWHfajrTRuNP9cpdDLjbcc.jpg"/>
+<img align="left" height="26px" alt="Java" src="https://w7.pngwing.com/pngs/177/242/png-transparent-plain-old-java-object-programming-language-computer-programming-object-oriented-programming-others-text-logo-computer-programming.png"/>
 <img align="left" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"?>
 
 
