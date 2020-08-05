@@ -7,7 +7,7 @@
 <p>&emsp;&emsp;&emsp; Contribute with more projects </p>
 <p>&emsp;&emsp;&emsp; Develop fun applications, hopefully 😭😭😭 </p>
 
-Motto: Mens sana in corpore sano 
+##Motto: Mens sana in corpore sano 
 
 
 
