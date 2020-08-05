@@ -1,0 +1,40 @@
+### Hi there, I'm Otiliu and this is my profile  👋
+
+## I'm an Telecommunications engineer, Developer, and obsessed with sports!
+- I’m currently learning everything but I'm trying to specialize on smth :bowtie: 
+- To do list:
+-  WORK on my website 🔥
+-  Contribute with more projects 
+-  Develop fun applications, hopefully 😭😭😭
+
+
+### U can contact me on:
+
+[<img align="left" alt="moldovanotiliu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="moldovanotiliu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="moldovanotiliu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+<br />
+
+### Languages and Tools used with the time:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]    
+[img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-dicid&psig=AOvVaw33lpI4Tm81UsemhzhT6bK8&ust=1596717225862000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjQvquJhOsCFQAAAAAdAAAAABAD"></][webdevplaylist]
+[<img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Fjava-logo.html&psig=AOvVaw2XAyWcY2iNwEtZPjrsWrpY&ust=1596717194226000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDQkJyJhOsCFQAAAAAdAAAAABAD"></][webdevplaylist]
+[<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></][webdevplaylist]
+
+
+<br />
+<br />
+
+[linkedin]:https://www.linkedin.com/in/otiliu-moldovan-a0318a183/
+[facebook]:https://www.facebook.com/Otiliu
+[instagram]:https://www.instagram.com/i.am.moldovan/?hl=ro
