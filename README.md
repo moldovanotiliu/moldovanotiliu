@@ -3,7 +3,7 @@
 ## I'm an Telecommunications engineer that considers himself a Developer
 - Smth About me: I’m currently learning everything but I'm trying to specialize on smth and I'm totally obsessed with sports :bowtie: 
 - To do list:
-<p>&nbsp&nbsp WORK on my website 🔥 </p>
+<p>&nbsp;&nbsp; WORK on my website 🔥 </p>
 -  Contribute with more projects 
 -  Develop fun applications, hopefully 😭😭😭
 
