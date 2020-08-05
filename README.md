@@ -3,9 +3,9 @@
 ## I'm an Telecommunications engineer, Developer, and obsessed with sports!
 - I’m currently learning everything but I'm trying to specialize on smth :bowtie: 
 - To do list:
--  WORK on my website 🔥
--  Contribute with more projects 
--  Develop fun applications, hopefully 😭😭😭
+- 1. WORK on my website 🔥
+- 2. Contribute with more projects 
+- 3. Develop fun applications, hopefully 😭😭😭
 
 
 ### U can contact me on:
