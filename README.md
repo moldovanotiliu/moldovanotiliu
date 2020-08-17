@@ -2,8 +2,9 @@
 
 ## I'm an Telecommunications engineer that considers himself a Developer
 - Smth About me: I’m currently learning everything but I'm trying to specialize on smth and I'm totally obsessed with sports :bowtie: 
+- My website is still a work in progress but u can have a look: https://moldovan-otiliu.firebaseapp.com/
 - To do list:
-<p>&emsp;&emsp;&emsp; WORK on my website 🔥 </p>
+<p>&emsp;&emsp;&emsp; WORK on my website 🔥 ✔️      </p> 
 <p>&emsp;&emsp;&emsp; Contribute with more projects </p>
 <p>&emsp;&emsp;&emsp; Develop fun applications, hopefully 😭😭😭 </p>
 
@@ -13,6 +14,7 @@
 
 ### U can contact me on:
 
+[<img align="left" alt="moldovanotiliu | Website" width="22px" src="https://png.pngtree.com/png-vector/20190115/ourmid/pngtree-vector-web-icon-png-image_320925.jpg" />][website]
 [<img align="left" alt="moldovanotiliu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="moldovanotiliu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="moldovanotiliu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -25,7 +27,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -41,3 +42,4 @@
 [linkedin]:https://www.linkedin.com/in/otiliu-moldovan-a0318a183/
 [facebook]:https://www.facebook.com/Otiliu
 [instagram]:https://www.instagram.com/i.am.moldovan/?hl=ro
+[website]:https://moldovan-otiliu.firebaseapp.com/
